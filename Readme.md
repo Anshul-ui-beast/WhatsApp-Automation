@@ -1,3 +1,9 @@
+📘 WhatsApp Automation System — EggsInvest (In Progress)
+
+This project is an end-to-end WhatsApp automation system designed for EggsInvest to automate agent onboarding, message handling, CRM integration, buyer–deal matching, and property notifications using FastAPI, Twilio WhatsApp API, MySQL, and Ngrok.
+
+This README summarises work completed Day 0 → Day 4, along with what remains to be built.
+
 ✅ Current Progress (Completed Work)
 ### 📌 Day 0 — Development Environment Setup
 

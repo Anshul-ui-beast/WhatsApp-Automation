@@ -1,4 +1,4 @@
-# 🚀 WhatsApp Automation System — EggsInvest
+# 🚀 WhatsApp Automation System
 
 A production-ready real estate automation platform that transforms WhatsApp into an intelligent agent for property distribution, buyer-deal matching, and CRM management. Built with FastAPI, Twilio, MySQL, and AI-powered message classification.
 
